@@ -4,7 +4,7 @@ brainfuck interpreter written in python
 It's actually really slow, for now, unless you're using it just for testing out brainfuck, printing simple strings etc.
 I did it quickly just for fun, so if anyone wants to make an improvement on it, I'm accepting pull requests.
 
-##Usage:
+## Usage:
 ```
 python brainfuck.py file.bf
 <output>
